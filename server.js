@@ -11,7 +11,7 @@ const port = 5000;
 
 const corsConfig = {
     // origin: "http://localhost:5173",
-    origin: "https://iridescent-bombolone-8c2d79.netlify.app/",
+    origin: "https://iridescent-bombolone-8c2d79.netlify.app",
 
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
